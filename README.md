@@ -4,6 +4,3 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-This is a Full Stack application using React for the Front End, Node.js and Express for the Back End, and integrating the ChatGPT API.
-This project will focus on developing an intuitive SQL query generator that takes a natural language description as input from the user.
-This powerful tool can help users easily generate SQL queries without any prior coding knowledge.
